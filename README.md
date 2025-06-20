@@ -2,11 +2,11 @@
 
 Este es un proyecto web simple desarrollado con **HTML, CSS y JavaScript**, como parte del entrenamiento del Módulo 3 – Semana 1.
 
-## 🔍 Descripción
+## Descripción
 
 El sistema solicita al usuario su nombre y edad. Valida si la edad ingresada es un número y muestra un mensaje personalizado según si el usuario es menor o mayor de 18 años.
 
-## ✅ Funcionalidades
+## Funcionalidades
 
 - Captura de datos mediante campos de entrada (`input`)
 - Validación de edad con JavaScript
@@ -14,19 +14,19 @@ El sistema solicita al usuario su nombre y edad. Valida si la edad ingresada es 
 - Manejo de errores con `console.error()`
 - Diseño adaptable a celular, tablet y computador
 
-## 📂 Archivos del Proyecto
+## Archivos del Proyecto
 
 - `index.html` – Estructura del sitio
 - `style.css` – Estilos responsivos
 - `script.js` – Lógica del programa
 
-## ▶️ ¿Cómo usarlo?
+## ¿Cómo usarlo?
 
 1. Abre el archivo `index.html` en tu navegador.
 2. Ingresa tu nombre y edad en los campos correspondientes.
 3. Haz clic en el botón “Enviar” y observa el mensaje que aparece.
 
-## 👤 Autor
+## Autor
 
 - **Nombre:** Samuel Arena  
 - **Cédula:** 1042244679  
