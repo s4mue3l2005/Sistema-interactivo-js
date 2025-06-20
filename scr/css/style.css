@@ -9,10 +9,9 @@ body {
   font-family: 'Segoe UI', sans-serif;
   background-color: #080033;
   color: #333;
-  padding: 20px;
 }
 
-header, footer {
+header {
   text-align: center;
   padding: 20px;
   background-color: #553ab8;
@@ -34,7 +33,7 @@ main {
   justify-content: center;
   align-items: center;
   flex-direction: column;
-  min-height: 60vh;
+  min-height: 90vh;
 }
 
 .form {
@@ -134,3 +133,4 @@ button:hover {
     font-size: 18px;
   }
 }
+
